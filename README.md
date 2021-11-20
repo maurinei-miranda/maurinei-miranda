@@ -1,9 +1,8 @@
 ## Hey there, Whats up? 👊🏾
 
-My name is Maurinei.  
+My name is Maurinei. - 🌍 🇧🇷, 🇲🇬  
 A beginner in a professional career, but a technology enthusiast since always.
 
-🌍 🇧🇷, 🇲🇬  
 ###  Technologies and Tools 🧰 
 
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white)
