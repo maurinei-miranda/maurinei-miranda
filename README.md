@@ -1,17 +1,21 @@
-### Hi there 👋
+## Hey there, Whats up? 👊🏾
 
-My name is Maurinei Miranda.
-<!--
-**maurinei-miranda/maurinei-miranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Maurinei.  
+A beginner in a professional career, but a technology enthusiast since always.
 
-Here are some ideas to get you started:
+🇧🇷, 🇲🇬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Technologies and Tools 
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) 
+![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp; 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+
+## 👉🏾 Social Networks
+
+<p align="left">
+<a href="https://www.linkedin.com/in/maurineicabral/"><img src="https://img.shields.io/badge/-maurineicabral-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/_maurinei"><img src="https://img.shields.io/badge/-@__maurinei-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
