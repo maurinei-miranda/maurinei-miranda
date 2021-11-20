@@ -1,6 +1,6 @@
 ## Hey there, Whats up? 👊🏾
 
-My name is Maurinei. 
+My name is Maurinei.  
 A beginner in a professional career, but a technology enthusiast since always.
 
 🌍 🇧🇷, 🇲🇬  
