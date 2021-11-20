@@ -14,7 +14,7 @@ A beginner in a professional career, but a technology enthusiast since always.
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-## 👉🏾 Social Networks
+## 🙌🏽 Social Networks
 
 <p align="left">
 <a href="https://www.linkedin.com/in/maurineicabral/"><img src="https://img.shields.io/badge/-maurineicabral-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
