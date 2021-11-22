@@ -17,8 +17,8 @@ A beginner in a professional career, but a technology enthusiast since always.
   
 <p align="left">
 <a href="https://github.com/maurinei-miranda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=maurinei-miranda&count_private=true&show_icons=true&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurinei-miranda&layout=compact&langs_count=8&hide=HCL&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=maurinei-miranda&count_private=true&show_icons=true&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurinei-miranda&layout=compact&langs_count=8&hide=HCL&theme=midnight-purple"/>
 </a>
 </p>
 
