@@ -13,12 +13,12 @@ A beginner in a professional career, but a technology enthusiast since always.
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-### Analytics
-  
+### Analytics ⚙️
+
 <p align="left">
 <a href="https://github.com/maurinei-miranda">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=maurinei-miranda&count_private=true&show_icons=true&theme=midnight-purple"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurinei-miranda&layout=compact&langs_count=8&hide=HCL&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=maurinei-miranda&count_private=true&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurinei-miranda&layout=compact&langs_count=8&hide=HCL&theme=midnight-purple"/>
 </a>
 </p>
 
