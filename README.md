@@ -20,7 +20,7 @@ A beginner in a professional career, but a technology enthusiast since always.
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=maurinei-miranda&count_private=true&show_icons=true&theme=midnight-purple"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurinei-miranda&layout=compact&langs_count=8&hide=HCL&theme=midnight-purple"/>
 </a>
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 </p>
 
  ### Social Networks 🙌
