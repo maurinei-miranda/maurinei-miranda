@@ -14,17 +14,6 @@ My name is Maurinei. - 🌍 🇧🇷, 🇲🇬
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
-### Analytics ⚙️
-
-<p align="left">
-<a href="https://github.com/maurinei-miranda">
-  <!-- <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=maurinei-miranda&theme=nightowl&date_format=j%20M%5B%20Y%5D"/> -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=maurinei-miranda&count_private=true&show_icons=true&theme=nightowl"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurinei-miranda&layout=compact&langs_count=8&hide=HCL&theme=nightowl"/>
-  </a>
-</p>
-
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maurinei-miranda.maurinei-miranda)
 
  ### Social Networks 🙌
