@@ -1,23 +1,28 @@
-## Hey there, Whats up? 👊🏾
 
-My name is Maurinei. - 🌍 🇧🇷, 🇲🇬  
+### | about me 🧑🏾‍🦱
 
-###  Technologies and Tools 🧰 
+Back-End Developer
+.
+***
+### | stack  🛠️
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/pt-BR/)
+[![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
+<br>
+[![Front Relation](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/) 
+<br>
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![MySql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) 
+<br>
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.mysql.com/) 
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maurinei-miranda.maurinei-miranda)
 
- ### Social Networks 🙌
+***
+### | connect with me ⛓️ |
 
-<p align="left">
-<a href="https://www.linkedin.com/in/maurineicabral/"><img src="https://img.shields.io/badge/maurineicabral-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!-- <a href="https://twitter.com/_maurinei"><img src="https://img.shields.io/badge/__maurinei-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> -->
+[![Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/maurineicabral/)
+[![Frameworks](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14428388/maurinei-miranda)
