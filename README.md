@@ -1,8 +1,3 @@
-
-### | about me 🧑🏾‍🦱
-
-<span style="font-family: 'monospace';">technology has changed my life, so I try to understand technology</span>
-
 ***
 ### | stack  🛠️
 
